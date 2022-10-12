@@ -4,3 +4,4 @@ I will use Pandas, Matplotlib, and Seaborn to visualize a dataset containing the
 <ul>
   <li>I will use Pandas to import the data from "fcc-forum-pageviews.csv". Set the index to the date column.
   <li>Clean the data by filtering out days when the page views were in the top 2.5% of the dataset or the bottom 2.5% of the dataset.
+  <li>I'm creating a draw_line_plot function that uses Matplotlib to draw a line chart similar to "examples/Figure_1.png". I made the title Daily freeCodeCamp Forum Page Views 5 / 2016-12 / 2019. On the x-axis, I labeled "Date" and on the y-axis, "Page Views".
